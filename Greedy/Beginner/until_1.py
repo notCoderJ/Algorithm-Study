@@ -16,10 +16,8 @@ count = 0
 while n > 1:
     quotient, remainder = divmod(n, k)
 
-    # 몫이 0이면 더 이상 나눌 수 없으므로 반복문 종료
-    if quotient == 0:
-        # 결과 값이 1이 되기 위해 나머지 - 1만큼 1번 연산을 수행해야 한다
-        count += remainder - 1
+    if quotient == 0: # 몫이 0이면 더 이상 나눌 수 없으므로 반복문 종료
+        count += remainder - 1 # 결과 값이 1이 되기 위해 나머지 - 1만큼 1번 연산을 수행해야 한다
         break;
 
     # K로 나누어 떨어지는 수까지 1번 연산을 수행하므로 1의 연산 횟수 'N % K'와

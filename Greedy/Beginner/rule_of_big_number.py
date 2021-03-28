@@ -18,10 +18,9 @@ second_max = max(num_list)
 # 반복되는 특성을 파악하자!
 # 문제 해결을 위해 가장 큰 수가 K번, 그 다음 큰 수가 1번 나열되는 구조가 반복된다!
 # 예를 들어 first_max = 4, second_max = 3, k=2일 때 (4 + 4 + 3) + (4 + 4 + 3) + ...
+
 quotient, remainder = divmod(m, k+1)
-# 반복되는 횟수 * 연속되는 k값 + 남은 횟수 == 가장 큰 수가 배치되는 개수
-result = (quotient * k + remainder) * first_max
-# 반복되는 횟수 값 == 그 다음 큰 수가 배치되는 개수
-result += quotient * second_max
+result = (quotient * k + remainder) * first_max # 반복 횟수 * 연속된 k값 + 남은 횟수 == 가장 큰 수의 배치 개수
+result += quotient * second_max # 반복 횟수 == 그 다음 큰 수의 배치 개수
 
 print(result)
