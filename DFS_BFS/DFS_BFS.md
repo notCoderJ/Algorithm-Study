@@ -47,14 +47,14 @@ BFS(Breath First Search) 알고리즘은 "**너비 우선 탐색**"이라 하며
 
 > 위 알고리즘을 이해하기 위해 필요한 추가 정의를 알아보자.<br>
 
-- 자료구조(Data Structure)란 연관성있는 데이터를 쉽게 관리하고 처리하기 위해 모아놓은 "**데이터 집합**"을 의미한다.<br>
-- 탐색(Search)은 이러한 자료구조에서 "**원하는 데이터를 찾는 과정**"을 의미한다.<br>
-- [스택(Stack)](reference/stack.py)이란 FILO(First In Last Out) 또는 LIFO(Last In First Out) 구조로 "**먼저 들어온 데이터가 가장 나중에 나가는**" 자료구조이다.<br>
+- **자료구조**(Data Structure)란 연관성있는 데이터를 쉽게 관리하고 처리하기 위해 모아놓은 "**데이터 집합**"을 의미한다.<br>
+- **탐색**(Search)은 이러한 자료구조에서 "**원하는 데이터를 찾는 과정**"을 의미한다.<br>
+- [**스택**(Stack)](reference/stack.py)이란 FILO(First In Last Out) 또는 LIFO(Last In First Out) 구조로 "**먼저 들어온 데이터가 가장 나중에 나가는**" 자료구조이다.<br>
   ex) 웹 사이트에서 뒤로가기를 통해 이전 페이지로 이동하는 경우<br>
 
-* [큐(Queue)](reference/queue.py)란 FIFO(First In First Out) 또는 LILO(Last In Last Out) 구조로 "**먼저 들어온 데이터가 가장 먼저 나가는**" 자료구조이다.<br>
+* [**큐**(Queue)](reference/queue.py)란 FIFO(First In First Out) 또는 LILO(Last In Last Out) 구조로 "**먼저 들어온 데이터가 가장 먼저 나가는**" 자료구조이다.<br>
   ex) 운영체제에서 프로세스를 스케줄링하는 경우<br>
-* 그래프(Graph)는 각 노드(Node) 또는 정점(Vertex)들이 간선(Edge)으로 연결된 자료구조이다.<br>
+* **그래프**(Graph)는 각 **노드**(Node) 또는 정점(Vertex)들이 **간선**(Edge)으로 **연결**된 자료구조이다.<br>
   ex) 리눅스 시스템의 디렉토리 구조
 * 그래프는 크게 다음 2종류로 분류된다.<br>
 

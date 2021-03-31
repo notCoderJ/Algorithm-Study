@@ -17,11 +17,14 @@
 
 ---
 
-| 카테고리  |                                                                                                   문제                                                                                                    |      난이도      | 업데이트 날짜 |
-| :-------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :-----------: |
-|  Greedy   |      [거스름돈](Greedy/Beginner/change.py)<br>[큰 수의 법칙](Greedy/Beginner/rule_of_big_number.py)<br>[숫자 카드 게임](Greedy/Beginner/card_game.py)<br>[1이 될 때까지](Greedy/Beginner/until_1.py)      |        하        |   21.03.24    |
-| Implement | [상하좌우](Implement/Beginner/up_down_left_right.py)<br>[시각](Implement/Beginner/time.py)<br>[왕실의 나이트](Implement/Beginner/knightOfPalace.py)<br>[게임 개발\*](Implement/Middle/gameDevelopment.py) | <br>하<br><br>중 |   21.03.28    |
-| DFS & BFS |                                                  [음료수 얼려 먹기](DFS_BFS/Beginner/iced_beverage.py)<br>[미로 탈출\*](DFS_BFS/Beginner/escape_maze.py)                                                  |        하        |   21.03.28    |
-|           |
+|              카테고리               |                                                                                                     문제                                                                                                      |      난이도      | 업데이트 날짜 |
+| :---------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------: | :-----------: |
+|     [Greedy](Greedy/GREEDY.md)      |        [거스름돈](Greedy/Beginner/change.py)<br>[큰 수의 법칙](Greedy/Beginner/rule_of_big_number.py)<br>[숫자 카드 게임](Greedy/Beginner/card_game.py)<br>[1이 될 때까지](Greedy/Beginner/until_1.py)        |        하        |   21.03.24    |
+| [Implement](Implement/IMPLEMENT.md) |   [상하좌우](Implement/Beginner/up_down_left_right.py)<br>[시각](Implement/Beginner/time.py)<br>[왕실의 나이트](Implement/Beginner/knightOfPalace.py)<br>[게임 개발\*](Implement/Middle/gameDevelopment.py)   | <br>하<br><br>중 |   21.03.28    |
+|   [DFS & BFS](DFS_BFS/DFS_BFS.md)   |                                                    [음료수 얼려 먹기](DFS_BFS/Beginner/iced_beverage.py)<br>[미로 탈출\*](DFS_BFS/Beginner/escape_maze.py)                                                    |        하        |   21.03.28    |
+|    [Sorting](Sorting/SORTING.md)    | [위에서 아래로](Sorting/Beginner/top_to_bottom.py)<br>[성적이 낮은 순서로 학생 출력하기](Sorting/Beginner/in_order_of_lower_rank.py)<br>[두 배열의 원소 교체](Sorting/Beginner/swap_elements_of_two_array.py) |        하        |   21.04.01    |
+|                                     |
+
+<br>
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
