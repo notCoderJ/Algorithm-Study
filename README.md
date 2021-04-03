@@ -23,6 +23,7 @@
 | [Implement](Implement/IMPLEMENT.md) |   [상하좌우](Implement/Beginner/up_down_left_right.py)<br>[시각](Implement/Beginner/time.py)<br>[왕실의 나이트](Implement/Beginner/knightOfPalace.py)<br>[게임 개발\*](Implement/Middle/gameDevelopment.py)   | <br>하<br><br>중 |   21.03.28    |
 |   [DFS & BFS](DFS_BFS/DFS_BFS.md)   |                                                    [음료수 얼려 먹기](DFS_BFS/Beginner/iced_beverage.py)<br>[미로 탈출\*](DFS_BFS/Beginner/escape_maze.py)                                                    |        하        |   21.03.28    |
 |    [Sorting](Sorting/SORTING.md)    | [위에서 아래로](Sorting/Beginner/top_to_bottom.py)<br>[성적이 낮은 순서로 학생 출력하기](Sorting/Beginner/in_order_of_lower_rank.py)<br>[두 배열의 원소 교체](Sorting/Beginner/swap_elements_of_two_array.py) |        하        |   21.04.01    |
+|          [Binary Search]()          |                                              [부품 찾기](Binary_Search/Beginner/search_parts.py)<br>[떡볶이 떡 만들기\*](Binary_Search/Middle/make_rice_cake.py)                                              |     하<br>중     |   21.04.03    |
 |                                     |
 
 <br>
