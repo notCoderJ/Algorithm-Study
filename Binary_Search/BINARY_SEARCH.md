@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![이진 탐색 동작](https://skilled.dev/images/binary-search.gif)
+![이진 탐색 동작](https://skilled.dev/images/binary-search.gif)<br>
 출처: [skilled.dev](https://skilled.dev/course/searching-and-binary-search)
 
 </div>
