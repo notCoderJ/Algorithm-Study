@@ -1,4 +1,4 @@
-# dijkstra - simple version : Time Complexity = O(V^2) (V는 노드 수)
+# dijkstra - simple version : Time Complexity = O(V²) (V는 노드 수)
 import sys
 input = sys.stdin.readline # input을 입력에 더 효율적인 sys의 readline으로 변경
 
