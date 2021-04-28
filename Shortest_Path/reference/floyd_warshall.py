@@ -1,4 +1,4 @@
-# floyd warshall : Time Complexity = O(v^3) (V는 노드 수)
+# floyd warshall : Time Complexity = O(v³) (V는 노드 수)
 
 INF = int(1e9) # 무한 값 설정(10억)
 
