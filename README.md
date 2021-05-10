@@ -26,8 +26,18 @@
 |          [Binary Search](Binary_Search/BINARY_SEARCH.md)          |                                                         [부품 찾기](Binary_Search/Beginner/search_parts.py)<br>[떡볶이 떡 만들기\*](Binary_Search/Middle/make_rice_cake.py)<br>[**정렬된 배열에서 특정 수의 개수 구하기**\*](Binary_Search/Middle/count_of_specific_number.py)                                                          |   하<br>중<br><br>   | ~~21.04.03~~<br>21.05.01 |
 | [Dynamic Programming](Dynamic_Programming/DYNAMIC_PROGRAMMING.md) | [**1로 만들기**\*](Dynamic_Programming/Beginner/make_1.py)<br>[**바닥 공사**\*](Dynamic_Programming/Beginner/floor_construction.py)<br>[**금광\***](Dynamic_Programming/Beginner/gold_mine.py)<br>[**개미 전사**\*](Dynamic_Programming/Middle/ant_warrior.py)<br>[효율적인 화폐 구성\*](Dynamic_Programming/Middle/efficient_money.py) |     하<br><br>중     | ~~21.04.14~~<br>21.05.03 |
 |          [Shortest Path](Shortest_Path/SHORTEST_PATH.md)          |                                                                                              [플로이드](Shortest_Path/Beginner/floyd.py)<br>[미래 도시](Shortest_Path/Middle/future_city.py)<br>[전보](Shortest_Path/Advanced/telegram.py)                                                                                              |    하<br>중<br>상    | ~~21.04.17~~<br>21.05.05 |
-|                      [Graph](Graph/GRAPH.md)                      |                                                                                             [팀 결성](Graph/Middle/make_team.py)<br>[도시 분할 계획](Graph/Middle/city_division_plan.py)<br>[**커리큘럼\***](Graph/Advanced/curriculum.py)                                                                                              |     중<br><br>상     |         21.04.24         |
+|                      [Graph](Graph/GRAPH.md)                      |                                                                                [팀 결성](Graph/Middle/make_team.py)<br>[도시 분할 계획](Graph/Middle/city_division_plan.py)<br>[~~여행 계획~~(TODO)]()<br>[**커리큘럼\***](Graph/Advanced/curriculum.py)                                                                                |   <br>중<br><br>상   |         21.04.24         |
+|                                                                   |
 
 <br>
+
+- 프로그래머스, 백준, 기타 알고리즘 사이트 문제
+
+---
+
+|                                          사이트                                           | 카테고리 |                            문제                            | 난이도 | 업데이트 날짜 |
+| :---------------------------------------------------------------------------------------: | :------: | :--------------------------------------------------------: | :----: | :-----------: |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) |  Greedy  | [**큰 수 만들기**\*](Greedy/Beginner/make_large_number.py) |  Lv2   |   21.05.10    |
+|                                                                                           |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
