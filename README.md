@@ -17,7 +17,7 @@
 
 ---
 
-|                             카테고리                              |                                                                                                                                                                  문제                                                                                                                                                                   |        난이도        |      업데이트 날짜       |
+|                             카테고리                              |                                                                                                                                                                문제 풀이                                                                                                                                                                |        난이도        |      업데이트 날짜       |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------: | :----------------------: |
 |                    [Greedy](Greedy/GREEDY.md)                     |                                          [거스름돈](Greedy/Beginner/change.py)<br>[큰 수의 법칙](Greedy/Beginner/rule_of_big_number.py)<br>[숫자 카드 게임](Greedy/Beginner/card_game.py)<br>[1이 될 때까지](Greedy/Beginner/until_1.py)<br>[모험가 길드](Greedy/Beginner/adventurer_guild.py)                                          |          하          | ~~21.03.24~~<br>21.04.29 |
 |                [Implement](Implement/IMPLEMENT.md)                |                                  [상하좌우](Implement/Beginner/up_down_left_right.py)<br>[시각](Implement/Beginner/time.py)<br>[왕실의 나이트](Implement/Beginner/knightOfPalace.py)<br>[럭키 스트레이트](Implement/Beginner/lucky_straight.py)<br>[게임 개발\*](Implement/Middle/gameDevelopment.py)                                   | <br>하<br><br><br>중 | ~~21.03.28~~<br>21.04.29 |
@@ -35,10 +35,11 @@
 
 ---
 
-|                                          사이트                                           |      카테고리       |                               문제                                | 난이도 |      업데이트 날짜       |
+|                                          사이트                                           |      카테고리       |                             문제 풀이                             | 난이도 |      업데이트 날짜       |
 | :---------------------------------------------------------------------------------------: | :-----------------: | :---------------------------------------------------------------: | :----: | :----------------------: |
 | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) |       Greedy        | [**큰 수 만들기**\*](Algorithm_Sites/Greedy/make_large_number.md) |  Lv2   | ~~21.05.10~~<br>21.05.19 |
 | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3) |       Greedy        |          [조이스틱](Algorithm_Sites/Greedy/joystick.md)           |  Lv2   |         21.05.17         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12899)          |      문자 변환      |       [124 나라의 숫자\*](Algorithm_Sites/etc/124_world.md)       |  Lv2   |         21.05.22         |
 |                [Elice Coding](https://blog.naver.com/elicer/221482570574)                 | Dynamic Programming |             [커다란 문 밖으로\*](etc/eating_cake.md)              |   -    |         21.05.13         |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
