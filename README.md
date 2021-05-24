@@ -39,6 +39,7 @@
 | :---------------------------------------------------------------------------------------: | :-----------------: | :---------------------------------------------------------------: | :----: | :----------------------: |
 | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) |       Greedy        | [**큰 수 만들기**\*](Algorithm_Sites/Greedy/make_large_number.md) |  Lv2   | ~~21.05.10~~<br>21.05.19 |
 | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3) |       Greedy        |          [조이스틱](Algorithm_Sites/Greedy/joystick.md)           |  Lv2   |         21.05.17         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42885)          |       Greedy        |          [구명보트](Algorithm_Sites/Greedy/lifeboat.md)           |  Lv2   |         21.05.25         |
 |         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12899)          |      문자 변환      |       [124 나라의 숫자\*](Algorithm_Sites/etc/124_world.md)       |  Lv2   |         21.05.22         |
 |                [Elice Coding](https://blog.naver.com/elicer/221482570574)                 | Dynamic Programming |             [커다란 문 밖으로\*](etc/eating_cake.md)              |   -    |         21.05.13         |
 
