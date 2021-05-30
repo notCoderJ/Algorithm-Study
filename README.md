@@ -43,5 +43,6 @@
 |         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12899)          |      문자 변환      |       [124 나라의 숫자\*](Algorithm_Sites/etc/124_world.md)       |  Lv2   |         21.05.22         |
 |         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42885)          |       Greedy        |          [구명보트](Algorithm_Sites/Greedy/lifeboat.md)           |  Lv2   |         21.05.25         |
 |         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42884)          |       Greedy        |    [단속카메라](Algorithm_Sites/Greedy/enforcement_camera.md)     |  Lv3   |         21.05.26         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43165)          |       DFS/BFS       |    [**타겟 넘버**\*](Algorithm_Sites/DFS_BFS/target_number.md)    |  Lv2   |         21.05.30         |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
