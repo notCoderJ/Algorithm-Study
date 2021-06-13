@@ -31,7 +31,7 @@
 
   예를들어 다음 그림과 같은 경로가 주어졌다고 가정하고 위 아이디어를 이해해보자.
 
-  <img src="../img/travel_route_ex.png" alt="여행 경로 예시" width="500px" height="290px" align="right">
+  <img src="../img/travel_route_ex.png" alt="여행 경로 예시" width="750px" height="335px" align="right">
 
   | 출발 |    도착     |
   | :--: | :---------: |
@@ -56,22 +56,22 @@
 
   MAN 공항부터 이전 공항으로 거슬러 올라가며 다른 공항으로 가는 티켓이 있는지 확인한다. 없는 경우 현재 공항을 이동 경로에 기록하고 있는 경우 해당 공항으로 이동한다. 다음은 이를 모두 수행한 결과이다.
 
-  - CDG : route = MAN + CDG
-  - ZRH : route = MAN + CDG + ZRH
-  - KBP : route = MAN + CDG + ZRH + KBP
+  - CDG : route = MAN, CDG
+  - ZRH : route = MAN, CDG, ZRH
+  - KBP : route = MAN, CDG, ZRH, KBP
   - ICN : KIX -> SIN -> MLE -> ICN
-    - ICN : route = MAN + CDG + ZRH + KBP + ICN
-    - MLE : route = MAN + CDG + ZRH + KBP + ICN + MLE
-    - SIN : route = MAN + CDG + ZRH + KBP + ICN + MLE + SIN
-    - KIX : route = MAN + CDG + ZRH + KBP + ICN + MLE + SIN + KIX
-    - ICN : route = MAN + CDG + ZRH + KBP + ICN + MLE + SIN + KIX + ICN
-  - KIX : route = MAN + CDG + ZRH + KBP + ICN + MLE + SIN + KIX + ICN + KIX
-  - GRU : route = MAN + CDG + ZRH + KBP + ICN + MLE + SIN + KIX + ICN + KIX + GRU
-  - ICN : route = MAN + CDG + ZRH + KBP + ICN + MLE + SIN + KIX + ICN + KIX + GRU + ICN
+    - ICN : route = MAN, CDG, ZRH, KBP, ICN
+    - MLE : route = MAN, CDG, ZRH, KBP, ICN, MLE
+    - SIN : route = MAN, CDG, ZRH, KBP, ICN, MLE, SIN
+    - KIX : route = MAN, CDG, ZRH, KBP, ICN, MLE, SIN, KIX
+    - ICN : route = MAN, CDG, ZRH, KBP, ICN, MLE, SIN, KIX, ICN
+  - KIX : route = MAN, CDG, ZRH, KBP, ICN, MLE, SIN, KIX, ICN, KIX
+  - GRU : route = MAN, CDG, ZRH, KBP, ICN, MLE, SIN, KIX, ICN, KIX, GRU
+  - ICN : route = MAN, CDG, ZRH, KBP, ICN, MLE, SIN, KIX, ICN, KIX, GRU, ICN
 
   위 과정에서 얻은 이동 경로를 역순으로 하면 모든 티켓을 사용한 이동 경로가 나오게 된다.
 
-  - 결과 : ICN + GRU + KIX + ICN + KIX + SIN + MLE + ICN + KBP + ZRH + CDG + MAN
+  - 결과 : ICN, GRU, KIX, ICN, KIX, SIN, MLE, ICN, KBP, ZRH, CDG, MAN
 
   이때, 도착 공항들을 먼저 알파벳 사전순으로 정렬해놓고 시작했기 때문에 "이동 경로가 다수일 경우 알파벳이 앞서는 순서로"라는 조건을 보장할 수 있다.
 

@@ -8,7 +8,7 @@
 
   예를 들어 다음과 같은 컴퓨터 연결 정보가 주어졌을 때 아래 우측 그림과 같은 2개의 네트워크가 형성된다.
 
-    <img src="../img/network_ex.png" alt="네트워크 그래프 예시" width="400px" align="right">
+    <img src="../img/network_ex.png" alt="네트워크 그래프 예시" width="650px" height="295px" align="right">
 
   |     |  0  |  1  |  2  |  3  |  4  |  5  |  6  |
   | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
