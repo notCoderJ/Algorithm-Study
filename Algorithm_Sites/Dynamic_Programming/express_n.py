@@ -18,6 +18,7 @@ def solution(N, number):
 
     return answer
 
+
 import unittest as ut
 
 class TestExpressN(ut.TestCase):
