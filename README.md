@@ -48,6 +48,6 @@
 |         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43163)          |       DFS/BFS       |       [단어 변환](Algorithm_Sites/DFS_BFS/word_conversion.md)        |  Lv3   |         21.06.10         |
 |         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43164)          |       DFS/BFS       |         [여행경로](Algorithm_Sites/DFS_BFS/travel_route.md)          |  Lv3   |         21.06.11         |
 |         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42895)          | Dynamic Programming | [**N으로 표현**\*](Algorithm_Sites/Dynamic_Programming/express_n.md) |  Lv3   |         21.06.18         |
-|                                     [프로그래머스]()                                      | Dynamic Programming |    [등굣길](Algorithm_Sites/Dynamic_Programming/way_to_school.md)    |  Lv3   |         21.06.25         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42898)          | Dynamic Programming |    [등굣길](Algorithm_Sites/Dynamic_Programming/way_to_school.md)    |  Lv3   |         21.06.25         |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
