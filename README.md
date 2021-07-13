@@ -60,3 +60,4 @@
   | :---------------------------------------------------------------------------------------: | :-----------------: | :------------------------------------------------------------------: | :----: | :----------------------: |
   | [백준](https://www.acmicpc.net/problem/2075) | 자료 구조<br>우선순위 큐 | [N번째 큰 수](Elice_study_tmp/Data_Structure/nth_num.md) | | 21.07.12 |
   | [백준](https://www.acmicpc.net/problem/5430) | 자료 구조<br>덱 | [AC](Elice_study_tmp/Data_Structure/ac.md) | | 21.07.12 |
+  | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42577) | 자료 구조<br>해시 | [전화번호 목록](Elice_study_tmp/Data_Structure/phone_number_list.py) | Lv2 | 21.07.13 |
