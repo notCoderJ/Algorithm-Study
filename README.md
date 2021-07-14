@@ -62,3 +62,4 @@
   | [백준](https://www.acmicpc.net/problem/5430) | 자료 구조<br>덱 | [AC](Elice_study_tmp/Data_Structure/ac.md) | | 21.07.12 |
   | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42577) | 자료 구조<br>해시 | [전화번호 목록](Elice_study_tmp/Data_Structure/phone_number_list.py) | Lv2 | 21.07.13 |
   | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42586) | 자료 구조<br>스택/큐 | [기능개발](Elice_study_tmp/Data_Structure/dev_function.py) | Lv2 | 21.07.13 |
+  | [백준](https://www.acmicpc.net/problem/17413) | 구현<br>문자열 | [단어 뒤집기 2](Elice_study_tmp/Backjoon/17413.py) | | 21.07.14 |
