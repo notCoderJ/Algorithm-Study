@@ -35,25 +35,43 @@
 
 ---
 
-|                                          사이트                                           |      카테고리       |                              문제 풀이                               | 난이도 |      업데이트 날짜       |
-| :---------------------------------------------------------------------------------------: | :-----------------: | :------------------------------------------------------------------: | :----: | :----------------------: |
-| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) |       Greedy        |  [**큰 수 만들기**\*](Algorithm_Sites/Greedy/make_large_number.md)   |  Lv2   | ~~21.05.10~~<br>21.05.19 |
-|                [Elice Coding](https://blog.naver.com/elicer/221482570574)                 | Dynamic Programming |               [커다란 문 밖으로\*](etc/eating_cake.md)               |   -    |         21.05.13         |
-| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3) |       Greedy        |            [조이스틱](Algorithm_Sites/Greedy/joystick.md)            |  Lv2   |         21.05.17         |
-|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12899)          |      문자 변환      |        [124 나라의 숫자\*](Algorithm_Sites/etc/124_world.md)         |  Lv2   |         21.05.22         |
-|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42885)          |       Greedy        |            [구명보트](Algorithm_Sites/Greedy/lifeboat.md)            |  Lv2   |         21.05.25         |
-|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42884)          |       Greedy        |      [단속카메라](Algorithm_Sites/Greedy/enforcement_camera.md)      |  Lv3   |         21.05.26         |
-|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43165)          |       DFS/BFS       |     [**타겟 넘버**\*](Algorithm_Sites/DFS_BFS/target_number.md)      |  Lv2   |         21.05.30         |
-| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3) |       DFS/BFS       |           [네트워크\*](Algorithm_Sites/DFS_BFS/network.md)           |  Lv3   |         21.06.03         |
-|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43163)          |       DFS/BFS       |       [단어 변환](Algorithm_Sites/DFS_BFS/word_conversion.md)        |  Lv3   |         21.06.10         |
-|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43164)          |       DFS/BFS       |         [여행경로](Algorithm_Sites/DFS_BFS/travel_route.md)          |  Lv3   |         21.06.11         |
-|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42895)          | Dynamic Programming | [**N으로 표현**\*](Algorithm_Sites/Dynamic_Programming/express_n.md) |  Lv3   |         21.06.18         |
-|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42898)          | Dynamic Programming |    [등굣길](Algorithm_Sites/Dynamic_Programming/way_to_school.md)    |  Lv3   |         21.06.25         |
-| [프로그래머스<br>(카카오 2019)](https://programmers.co.kr/learn/courses/30/lessons/42889) |       Sorting       |             [실패율](Kakao/2019/Sorting/failure_rate.md)             |  Lv1   |         21.06.29         |
+|                                          사이트                                           |       카테고리       |                              문제 풀이                               | 난이도 |      업데이트 날짜       |
+| :---------------------------------------------------------------------------------------: | :------------------: | :------------------------------------------------------------------: | :----: | :----------------------: |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42883?language=python3) |        Greedy        |  [**큰 수 만들기**\*](Algorithm_Sites/Greedy/make_large_number.md)   |  Lv2   | ~~21.05.10~~<br>21.05.19 |
+|                [Elice Coding](https://blog.naver.com/elicer/221482570574)                 | Dynamic Programming  |               [커다란 문 밖으로\*](etc/eating_cake.md)               |   -    |         21.05.13         |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3) |        Greedy        |            [조이스틱](Algorithm_Sites/Greedy/joystick.md)            |  Lv2   |         21.05.17         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12899)          |      문자 변환       |        [124 나라의 숫자\*](Algorithm_Sites/etc/124_world.md)         |  Lv2   |         21.05.22         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42885)          |        Greedy        |            [구명보트](Algorithm_Sites/Greedy/lifeboat.md)            |  Lv2   |         21.05.25         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42884)          |        Greedy        |      [단속카메라](Algorithm_Sites/Greedy/enforcement_camera.md)      |  Lv3   |         21.05.26         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43165)          |       DFS/BFS        |     [**타겟 넘버**\*](Algorithm_Sites/DFS_BFS/target_number.md)      |  Lv2   |         21.05.30         |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3) |       DFS/BFS        |           [네트워크\*](Algorithm_Sites/DFS_BFS/network.md)           |  Lv3   |         21.06.03         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43163)          |       DFS/BFS        |       [단어 변환](Algorithm_Sites/DFS_BFS/word_conversion.md)        |  Lv3   |         21.06.10         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43164)          |       DFS/BFS        |         [여행경로](Algorithm_Sites/DFS_BFS/travel_route.md)          |  Lv3   |         21.06.11         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42895)          | Dynamic Programming  | [**N으로 표현**\*](Algorithm_Sites/Dynamic_Programming/express_n.md) |  Lv3   |         21.06.18         |
+|         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42898)          | Dynamic Programming  |    [등굣길](Algorithm_Sites/Dynamic_Programming/way_to_school.md)    |  Lv3   |         21.06.25         |
+| [프로그래머스<br>(카카오 2019)](https://programmers.co.kr/learn/courses/30/lessons/42889) |       Sorting        |             [실패율](Kakao/2019/Sorting/failure_rate.md)             |  Lv1   |         21.06.29         |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | Data Structure(Hash) |              [위장](Algorithm_Sites/Data_structure/.py)              |  Lv2   |         21.07.16         |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
-<br><br>
+<br>
+
+## ✏ 학습 내용
+
+최근에는 알고리즘 스터디를 진행하고 있는 Repository에 PR을 하고 있었기 때문에 이 Repository에는 올리지 않고 있었는데, 개인적으로 부족한 부분에 대해서는 학습하며 이곳에 다시 올려볼까 생각하고 있다.
+
+### 1. 백트래킹 & 재귀 구현 연습 (업데이트: 2021.09.12)
+
+조합이나 순열과 관련된 문제가 나오면 itertools 모듈의 combinations나 permutations를 적극 사용해왔는데, 이러다보니 실제 구현이 필요한 상황에서 구현할 때 버벅거리고 구현 능력이 떨어지는 느낌이 있었다. 그래서 백준의 n과 m 시리즈를 통해 다시 기초를 확실히 다지고 구현 능력을 향상시켜 보려고 한다.
+
+| n과 m |                       1                        |                       2                        |                       3                        |                       4                        |                       5                        |                       6                        |                       7                        |                       8                        |                       9                        |                       10                       |                       11                       |                       12                       |
+| :---: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
+| 문제  | [15649](https://www.acmicpc.net/problem/15649) | [15650](https://www.acmicpc.net/problem/15650) | [15651](https://www.acmicpc.net/problem/15651) | [15652](https://www.acmicpc.net/problem/15652) | [15654](https://www.acmicpc.net/problem/15654) | [15655](https://www.acmicpc.net/problem/15655) | [15656](https://www.acmicpc.net/problem/15656) | [15657](https://www.acmicpc.net/problem/15657) | [15663](https://www.acmicpc.net/problem/15663) | [15664](https://www.acmicpc.net/problem/15664) | [15665](https://www.acmicpc.net/problem/15665) | [15666](https://www.acmicpc.net/problem/15666) |
+| 풀이  |                [1](N_M/n_m1.py)                |                [2](N_M/n_m2.py)                |                [3](N_M/n_m3.py)                |                [4](N_M/n_m4.py)                |                [5](N_M/n_m5.py)                |                [6](N_M/n_m6.py)                |                [7](N_M/n_m7.py)                |                [8](N_M/n_m8.py)                |                     [9]()                      |                     [10]()                     |                     [11]()                     |                     [12]()                     |
+
+<br/>
+
+---
 
 - 엘리스 코테 스터디(임시 공간)
   | 문제 | 카테고리 | 문제 풀이 | 난이도 | 업데이트 날짜 |
