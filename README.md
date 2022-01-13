@@ -51,6 +51,9 @@
 |         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42898)          | Dynamic Programming  |    [등굣길](Algorithm_Sites/Dynamic_Programming/way_to_school.md)    |  Lv3   |         21.06.25         |
 | [프로그래머스<br>(카카오 2019)](https://programmers.co.kr/learn/courses/30/lessons/42889) |       Sorting        |             [실패율](Kakao/2019/Sorting/failure_rate.md)             |  Lv1   |         21.06.29         |
 | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | Data Structure(Hash) |              [위장](Algorithm_Sites/Data_structure/.py)              |  Lv2   |         21.07.16         |
+|                       [백준](https://www.acmicpc.net/problem/1018)                        |     Brute Force      |                         [1018](boj/1018.py)                          | 실버5  |         22.01.13         |
+|                       [백준](https://www.acmicpc.net/problem/1436)                        |     Brute Force      |                         [1436](boj/1436.py)                          | 실버5  |         22.01.13         |
+|                       [백준](https://www.acmicpc.net/problem/14501)                       |     Brute Force      |                        [14501](boj/14501.py)                         | 실버3  |         22.01.13         |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
