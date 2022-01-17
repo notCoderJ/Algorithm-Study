@@ -54,6 +54,8 @@
 |                       [백준](https://www.acmicpc.net/problem/1018)                        |     Brute Force      |                         [1018](boj/1018.py)                          | 실버5  |         22.01.13         |
 |                       [백준](https://www.acmicpc.net/problem/1436)                        |     Brute Force      |                         [1436](boj/1436.py)                          | 실버5  |         22.01.13         |
 |                       [백준](https://www.acmicpc.net/problem/14501)                       |     Brute Force      |                        [14501](boj/14501.py)                         | 실버3  |         22.01.13         |
+|                       [백준](https://www.acmicpc.net/problem/1764)                        |    Binary Search     |                         [1764](boj/1764.py)                          | 실버4  |         22.01.17         |
+|                       [백준](https://www.acmicpc.net/problem/1920)                        |    Binary Search     |                         [1920](boj/1920.py)                          | 실버4  |         22.01.17         |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
@@ -85,3 +87,11 @@
   | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42586) | 자료 구조<br>스택/큐 | [기능개발](Elice_study_tmp/Data_Structure/dev_function.py) | Lv2 | 21.07.13 |
   | [백준](https://www.acmicpc.net/problem/17413) | 구현<br>문자열 | [단어 뒤집기 2](Elice_study_tmp/Backjoon/17413.py) | | 21.07.14 |
   | [백준](https://www.acmicpc.net/problem/2800) | 자료 구조(스택)<br>문자열 | [괄호 제거](Elice_study_tmp/Backjoon/2800.py) | | 21.07.14 |
+
+<br/>
+
+---
+
+### 🗒 알고리즘 연습 공간
+
+1. [이분 탐색 Upper Bound & Lower Bound](practice/binary_lower_upper.py)
