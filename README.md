@@ -56,7 +56,8 @@
 |                       [백준](https://www.acmicpc.net/problem/14501)                       |     Brute Force      |                        [14501](boj/14501.py)                         | 실버3  |         22.01.13         |
 |                       [백준](https://www.acmicpc.net/problem/1764)                        |    Binary Search     |                         [1764](boj/1764.py)                          | 실버4  |         22.01.17         |
 |                       [백준](https://www.acmicpc.net/problem/1920)                        |    Binary Search     |                         [1920](boj/1920.py)                          | 실버4  |         22.01.17         |
-|                       [백준](https://www.acmicpc.net/problem/10816)                       |    Binary Search     |                        [10816](boj/10816.py)                         | 실버4  |         22.01.17         |
+|                       [백준](https://www.acmicpc.net/problem/10816)                       |    Binary Search     |                        [10816](boj/10816.py)                         | 실버4  |         22.01.18         |
+|                       [백준](https://www.acmicpc.net/problem/1654)                        |    Binary Search     |                         [1654](boj/1654.py)                          | 실버3  |         22.01.18         |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
