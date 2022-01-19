@@ -58,6 +58,8 @@
 |                       [백준](https://www.acmicpc.net/problem/1920)                        |    Binary Search     |                         [1920](boj/1920.py)                          | 실버4  |         22.01.17         |
 |                       [백준](https://www.acmicpc.net/problem/10816)                       |    Binary Search     |                        [10816](boj/10816.py)                         | 실버4  |         22.01.18         |
 |                       [백준](https://www.acmicpc.net/problem/1654)                        |    Binary Search     |                         [1654](boj/1654.py)                          | 실버3  |         22.01.18         |
+|                       [백준](https://www.acmicpc.net/problem/2110)                        |    Binary Search     |                         [2110](boj/2110.py)                          | 골드5  |         22.01.19         |
+|                       [백준](https://www.acmicpc.net/problem/1300)                        |    Binary Search     |                         [1300](boj/1300.py)                          | 골드2  |         22.01.19         |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
