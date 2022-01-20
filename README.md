@@ -31,9 +31,10 @@
 
 <br>
 
-- 프로그래머스, 백준, 기타 알고리즘 사이트 문제
+## 프로그래머스, 백준, 기타 알고리즘 사이트 문제
 
----
+<details>
+  <summary>2022 이전 문제 풀이</summary>
 
 |                                          사이트                                           |       카테고리       |                              문제 풀이                               | 난이도 |      업데이트 날짜       |
 | :---------------------------------------------------------------------------------------: | :------------------: | :------------------------------------------------------------------: | :----: | :----------------------: |
@@ -51,23 +52,43 @@
 |         [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42898)          | Dynamic Programming  |    [등굣길](Algorithm_Sites/Dynamic_Programming/way_to_school.md)    |  Lv3   |         21.06.25         |
 | [프로그래머스<br>(카카오 2019)](https://programmers.co.kr/learn/courses/30/lessons/42889) |       Sorting        |             [실패율](Kakao/2019/Sorting/failure_rate.md)             |  Lv1   |         21.06.29         |
 | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42578?language=python3) | Data Structure(Hash) |              [위장](Algorithm_Sites/Data_structure/.py)              |  Lv2   |         21.07.16         |
-|                       [백준](https://www.acmicpc.net/problem/1018)                        |     Brute Force      |                         [1018](boj/1018.py)                          | 실버5  |         22.01.13         |
-|                       [백준](https://www.acmicpc.net/problem/1436)                        |     Brute Force      |                         [1436](boj/1436.py)                          | 실버5  |         22.01.13         |
-|                       [백준](https://www.acmicpc.net/problem/14501)                       |     Brute Force      |                        [14501](boj/14501.py)                         | 실버3  |         22.01.13         |
-|                       [백준](https://www.acmicpc.net/problem/1764)                        |    Binary Search     |                         [1764](boj/1764.py)                          | 실버4  |         22.01.17         |
-|                       [백준](https://www.acmicpc.net/problem/1920)                        |    Binary Search     |                         [1920](boj/1920.py)                          | 실버4  |         22.01.17         |
-|                       [백준](https://www.acmicpc.net/problem/10816)                       |    Binary Search     |                        [10816](boj/10816.py)                         | 실버4  |         22.01.18         |
-|                       [백준](https://www.acmicpc.net/problem/1654)                        |    Binary Search     |                         [1654](boj/1654.py)                          | 실버3  |         22.01.18         |
-|                       [백준](https://www.acmicpc.net/problem/2110)                        |    Binary Search     |                         [2110](boj/2110.py)                          | 골드5  |         22.01.19         |
-|                       [백준](https://www.acmicpc.net/problem/1300)                        |    Binary Search     |                         [1300](boj/1300.py)                          | 골드2  |         22.01.19         |
+
+</details>
+
+|                                  사이트                                  |   카테고리    |                        문제 풀이                        | 난이도 | 업데이트 날짜 |
+| :----------------------------------------------------------------------: | :-----------: | :-----------------------------------------------------: | :----: | :-----------: |
+|               [백준](https://www.acmicpc.net/problem/1018)               |  Brute Force  |                   [1018](boj/1018.py)                   | 실버5  |   22.01.13    |
+|               [백준](https://www.acmicpc.net/problem/1436)               |  Brute Force  |                   [1436](boj/1436.py)                   | 실버5  |   22.01.13    |
+|              [백준](https://www.acmicpc.net/problem/14501)               |  Brute Force  |                  [14501](boj/14501.py)                  | 실버3  |   22.01.13    |
+|               [백준](https://www.acmicpc.net/problem/1764)               | Binary Search |                   [1764](boj/1764.py)                   | 실버4  |   22.01.17    |
+|               [백준](https://www.acmicpc.net/problem/1920)               | Binary Search |                   [1920](boj/1920.py)                   | 실버4  |   22.01.17    |
+|              [백준](https://www.acmicpc.net/problem/10816)               | Binary Search |                  [10816](boj/10816.py)                  | 실버4  |   22.01.18    |
+|               [백준](https://www.acmicpc.net/problem/1654)               | Binary Search |                   [1654](boj/1654.py)                   | 실버3  |   22.01.18    |
+|               [백준](https://www.acmicpc.net/problem/2110)               | Binary Search |                   [2110](boj/2110.py)                   | 골드5  |   22.01.19    |
+|               [백준](https://www.acmicpc.net/problem/1300)               | Binary Search |                   [1300](boj/1300.py)                   | 골드2  |   22.01.19    |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43236) | Binary Search | [징검다리](programmers/binary_search/stepping_stone.py) |  lv4   |   22.01.20    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
 <br>
 
-## ✏ 학습 내용
+<details>
+  <summary>엘리스 코테 스터디 이전 기록</summary>
 
-최근에는 알고리즘 스터디를 진행하고 있는 Repository에 PR을 하고 있었기 때문에 이 Repository에는 올리지 않고 있었는데, 개인적으로 부족한 부분에 대해서는 학습하며 이곳에 다시 올려볼까 생각하고 있다.
+|                                   문제                                   |         카테고리          |                              문제 풀이                               | 난이도 | 업데이트 날짜 |
+| :----------------------------------------------------------------------: | :-----------------------: | :------------------------------------------------------------------: | :----: | :-----------: |
+|               [백준](https://www.acmicpc.net/problem/2075)               | 자료 구조<br>우선순위 큐  |       [N번째 큰 수](Elice_study_tmp/Data_Structure/nth_num.md)       |        |   21.07.12    |
+|               [백준](https://www.acmicpc.net/problem/5430)               |      자료 구조<br>덱      |              [AC](Elice_study_tmp/Data_Structure/ac.md)              |        |   21.07.12    |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42577) |     자료 구조<br>해시     | [전화번호 목록](Elice_study_tmp/Data_Structure/phone_number_list.py) |  Lv2   |   21.07.13    |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42586) |   자료 구조<br>스택/큐    |      [기능개발](Elice_study_tmp/Data_Structure/dev_function.py)      |  Lv2   |   21.07.13    |
+|              [백준](https://www.acmicpc.net/problem/17413)               |      구현<br>문자열       |          [단어 뒤집기 2](Elice_study_tmp/Backjoon/17413.py)          |        |   21.07.14    |
+|               [백준](https://www.acmicpc.net/problem/2800)               | 자료 구조(스택)<br>문자열 |            [괄호 제거](Elice_study_tmp/Backjoon/2800.py)             |        |   21.07.14    |
+
+</details>
+
+<br/>
+
+## ✏ 학습 내용
 
 ### 1. 백트래킹 & 재귀 구현 연습 (업데이트: 2021.09.12)
 
@@ -77,20 +98,6 @@
 | :---: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
 | 문제  | [15649](https://www.acmicpc.net/problem/15649) | [15650](https://www.acmicpc.net/problem/15650) | [15651](https://www.acmicpc.net/problem/15651) | [15652](https://www.acmicpc.net/problem/15652) | [15654](https://www.acmicpc.net/problem/15654) | [15655](https://www.acmicpc.net/problem/15655) | [15656](https://www.acmicpc.net/problem/15656) | [15657](https://www.acmicpc.net/problem/15657) | [15663](https://www.acmicpc.net/problem/15663) | [15664](https://www.acmicpc.net/problem/15664) | [15665](https://www.acmicpc.net/problem/15665) | [15666](https://www.acmicpc.net/problem/15666) |
 | 풀이  |                [1](N_M/n_m1.py)                |                [2](N_M/n_m2.py)                |                [3](N_M/n_m3.py)                |                [4](N_M/n_m4.py)                |                [5](N_M/n_m5.py)                |                [6](N_M/n_m6.py)                |                [7](N_M/n_m7.py)                |                [8](N_M/n_m8.py)                |                     [9]()                      |                     [10]()                     |                     [11]()                     |                     [12]()                     |
-
-<br/>
-
----
-
-- 엘리스 코테 스터디(임시 공간)
-  | 문제 | 카테고리 | 문제 풀이 | 난이도 | 업데이트 날짜 |
-  | :---------------------------------------------------------------------------------------: | :-----------------: | :------------------------------------------------------------------: | :----: | :----------------------: |
-  | [백준](https://www.acmicpc.net/problem/2075) | 자료 구조<br>우선순위 큐 | [N번째 큰 수](Elice_study_tmp/Data_Structure/nth_num.md) | | 21.07.12 |
-  | [백준](https://www.acmicpc.net/problem/5430) | 자료 구조<br>덱 | [AC](Elice_study_tmp/Data_Structure/ac.md) | | 21.07.12 |
-  | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42577) | 자료 구조<br>해시 | [전화번호 목록](Elice_study_tmp/Data_Structure/phone_number_list.py) | Lv2 | 21.07.13 |
-  | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/42586) | 자료 구조<br>스택/큐 | [기능개발](Elice_study_tmp/Data_Structure/dev_function.py) | Lv2 | 21.07.13 |
-  | [백준](https://www.acmicpc.net/problem/17413) | 구현<br>문자열 | [단어 뒤집기 2](Elice_study_tmp/Backjoon/17413.py) | | 21.07.14 |
-  | [백준](https://www.acmicpc.net/problem/2800) | 자료 구조(스택)<br>문자열 | [괄호 제거](Elice_study_tmp/Backjoon/2800.py) | | 21.07.14 |
 
 <br/>
 
