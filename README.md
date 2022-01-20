@@ -67,6 +67,7 @@
 |               [백준](https://www.acmicpc.net/problem/2110)               | Binary Search |                   [2110](boj/2110.py)                   | 골드5  |   22.01.19    |
 |               [백준](https://www.acmicpc.net/problem/1300)               | Binary Search |                   [1300](boj/1300.py)                   | 골드2  |   22.01.19    |
 | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43236) | Binary Search | [징검다리](programmers/binary_search/stepping_stone.py) |  lv4   |   22.01.20    |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43238) | Binary Search |  [입국심사](programmers/binary_search/immigration.py)   |  lv3   |   22.01.21    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
