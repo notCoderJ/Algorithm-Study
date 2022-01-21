@@ -69,6 +69,7 @@
 | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43236) | Binary Search |    [징검다리](programmers/binary_search/stepping_stone.py)    |  lv4   |   22.01.20    |
 | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43238) | Binary Search |     [입국심사](programmers/binary_search/immigration.py)      |  lv3   |   22.01.21    |
 | [2019 카카오](https://programmers.co.kr/learn/courses/30/lessons/64062)  | Binary Search | [징검다리 건너기](Kakao/2019/Binary_Search/stepping_stone.py) |  lv3   |   22.01.21    |
+|              [백준](https://www.acmicpc.net/problem/20551)               | Binary Search |                     [20551](boj/20551.py)                     | 실버4  |   22.01.22    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
