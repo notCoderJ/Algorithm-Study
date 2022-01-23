@@ -71,6 +71,7 @@
 | [2019 카카오](https://programmers.co.kr/learn/courses/30/lessons/64062)  | Binary Search | [징검다리 건너기](Kakao/2019/Binary_Search/stepping_stone.py) |  lv3   |   22.01.21    |
 |              [백준](https://www.acmicpc.net/problem/20551)               | Binary Search |                     [20551](boj/20551.py)                     | 실버4  |   22.01.22    |
 |               [백준](https://www.acmicpc.net/problem/2805)               | Binary Search |                      [2805](boj/2805.py)                      | 실버3  |   22.01.22    |
+|              [백준](https://www.acmicpc.net/problem/11561)               | Binary Search |                     [11561](boj/11561.py)                     | 실버3  |   22.01.23    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
