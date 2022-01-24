@@ -55,23 +55,25 @@
 
 </details>
 
-|                                  사이트                                  |   카테고리    |                           문제 풀이                           | 난이도 | 업데이트 날짜 |
-| :----------------------------------------------------------------------: | :-----------: | :-----------------------------------------------------------: | :----: | :-----------: |
-|               [백준](https://www.acmicpc.net/problem/1018)               |  Brute Force  |                      [1018](boj/1018.py)                      | 실버5  |   22.01.13    |
-|               [백준](https://www.acmicpc.net/problem/1436)               |  Brute Force  |                      [1436](boj/1436.py)                      | 실버5  |   22.01.13    |
-|              [백준](https://www.acmicpc.net/problem/14501)               |  Brute Force  |                     [14501](boj/14501.py)                     | 실버3  |   22.01.13    |
-|               [백준](https://www.acmicpc.net/problem/1764)               | Binary Search |                      [1764](boj/1764.py)                      | 실버4  |   22.01.17    |
-|               [백준](https://www.acmicpc.net/problem/1920)               | Binary Search |                      [1920](boj/1920.py)                      | 실버4  |   22.01.17    |
-|              [백준](https://www.acmicpc.net/problem/10816)               | Binary Search |                     [10816](boj/10816.py)                     | 실버4  |   22.01.18    |
-|               [백준](https://www.acmicpc.net/problem/1654)               | Binary Search |                      [1654](boj/1654.py)                      | 실버3  |   22.01.18    |
-|               [백준](https://www.acmicpc.net/problem/2110)               | Binary Search |                      [2110](boj/2110.py)                      | 골드5  |   22.01.19    |
-|               [백준](https://www.acmicpc.net/problem/1300)               | Binary Search |                      [1300](boj/1300.py)                      | 골드2  |   22.01.19    |
-| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43236) | Binary Search |    [징검다리](programmers/binary_search/stepping_stone.py)    |  lv4   |   22.01.20    |
-| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43238) | Binary Search |     [입국심사](programmers/binary_search/immigration.py)      |  lv3   |   22.01.21    |
-| [2019 카카오](https://programmers.co.kr/learn/courses/30/lessons/64062)  | Binary Search | [징검다리 건너기](Kakao/2019/Binary_Search/stepping_stone.py) |  lv3   |   22.01.21    |
-|              [백준](https://www.acmicpc.net/problem/20551)               | Binary Search |                     [20551](boj/20551.py)                     | 실버4  |   22.01.22    |
-|               [백준](https://www.acmicpc.net/problem/2805)               | Binary Search |                      [2805](boj/2805.py)                      | 실버3  |   22.01.22    |
-|              [백준](https://www.acmicpc.net/problem/11561)               | Binary Search |                     [11561](boj/11561.py)                     | 실버3  |   22.01.23    |
+|                                  사이트                                  |              카테고리              |                           문제 풀이                           | 난이도 | 업데이트 날짜 |
+| :----------------------------------------------------------------------: | :--------------------------------: | :-----------------------------------------------------------: | :----: | :-----------: |
+|               [백준](https://www.acmicpc.net/problem/1018)               |            Brute Force             |                      [1018](boj/1018.py)                      | 실버5  |   22.01.13    |
+|               [백준](https://www.acmicpc.net/problem/1436)               |            Brute Force             |                      [1436](boj/1436.py)                      | 실버5  |   22.01.13    |
+|              [백준](https://www.acmicpc.net/problem/14501)               |            Brute Force             |                     [14501](boj/14501.py)                     | 실버3  |   22.01.13    |
+|               [백준](https://www.acmicpc.net/problem/1764)               |           Binary Search            |                      [1764](boj/1764.py)                      | 실버4  |   22.01.17    |
+|               [백준](https://www.acmicpc.net/problem/1920)               |           Binary Search            |                      [1920](boj/1920.py)                      | 실버4  |   22.01.17    |
+|              [백준](https://www.acmicpc.net/problem/10816)               |           Binary Search            |                     [10816](boj/10816.py)                     | 실버4  |   22.01.18    |
+|               [백준](https://www.acmicpc.net/problem/1654)               |           Binary Search            |                      [1654](boj/1654.py)                      | 실버3  |   22.01.18    |
+|               [백준](https://www.acmicpc.net/problem/2110)               |           Binary Search            |                      [2110](boj/2110.py)                      | 골드5  |   22.01.19    |
+|               [백준](https://www.acmicpc.net/problem/1300)               |           Binary Search            |                      [1300](boj/1300.py)                      | 골드2  |   22.01.19    |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43236) |           Binary Search            |    [징검다리](programmers/binary_search/stepping_stone.py)    |  lv4   |   22.01.20    |
+| [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/43238) |           Binary Search            |     [입국심사](programmers/binary_search/immigration.py)      |  lv3   |   22.01.21    |
+| [2019 카카오](https://programmers.co.kr/learn/courses/30/lessons/64062)  |           Binary Search            | [징검다리 건너기](Kakao/2019/Binary_Search/stepping_stone.py) |  lv3   |   22.01.21    |
+|              [백준](https://www.acmicpc.net/problem/20551)               |           Binary Search            |                     [20551](boj/20551.py)                     | 실버4  |   22.01.22    |
+|               [백준](https://www.acmicpc.net/problem/2805)               |           Binary Search            |                      [2805](boj/2805.py)                      | 실버3  |   22.01.22    |
+|              [백준](https://www.acmicpc.net/problem/11561)               |           Binary Search            |                     [11561](boj/11561.py)                     | 실버3  |   22.01.23    |
+|              [백준](https://www.acmicpc.net/problem/14627)               |           Binary Search            |                     [14627](boj/14627.py)                     | 실버3  |   22.01.24    |
+|              [백준](https://www.acmicpc.net/problem/17503)               | Binary Search <br/> Priority Queue |                     [17503](boj/17503.py)                     | 실버2  |   22.01.24    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
