@@ -74,6 +74,7 @@
 |              [백준](https://www.acmicpc.net/problem/11561)               |           Binary Search            |                     [11561](boj/11561.py)                     | 실버3  |   22.01.23    |
 |              [백준](https://www.acmicpc.net/problem/14627)               |           Binary Search            |                     [14627](boj/14627.py)                     | 실버3  |   22.01.24    |
 |              [백준](https://www.acmicpc.net/problem/17503)               | Binary Search <br/> Priority Queue |                     [17503](boj/17503.py)                     | 실버2  |   22.01.24    |
+|               [백준](https://www.acmicpc.net/problem/3079)               |           Binary Search            |                      [3079](boj/3079.py)                      | 실버1  |   22.01.25    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
