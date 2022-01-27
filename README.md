@@ -80,6 +80,7 @@
 |               [백준](https://www.acmicpc.net/problem/2470)               |            Two Pointer             |                      [2470](boj/2470.py)                      | 골드5  |   22.01.26    |
 |               [백준](https://www.acmicpc.net/problem/1806)               |  Two Pointer <br/> Binary Search   |                      [1806](boj/1806.py)                      | 골드4  |   22.01.26    |
 |               [백준](https://www.acmicpc.net/problem/1644)               |            Two Pointer             |                      [1644](boj/1644.py)                      | 골드3  |   22.01.26    |
+|               [백준](https://www.acmicpc.net/problem/2230)               |            Two Pointer             |                      [2230](boj/2230.py)                      | 골드5  |   22.01.27    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
