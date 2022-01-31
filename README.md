@@ -83,6 +83,7 @@
 |               [백준](https://www.acmicpc.net/problem/2230)               |            Two Pointer             |                      [2230](boj/2230.py)                      | 골드5  |   22.01.27    |
 |               [백준](https://www.acmicpc.net/problem/1484)               |            Two Pointer             |                      [1484](boj/1484.py)                      | 골드4  |   22.01.27    |
 |               [백준](https://www.acmicpc.net/problem/2038)               |      Two Pointer...? <br/> DP      |                      [2038](boj/2038.py)                      | 골드2  |   22.01.29    |
+|               [백준](https://www.acmicpc.net/problem/2531)               |            Two Pointer             |                      [2531](boj/2531.py)                      | 실버1  |   22.01.31    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
