@@ -88,6 +88,7 @@
 |               [백준](https://www.acmicpc.net/problem/2293)               |        Two Pointer <br/> DP        |                      [2293](boj/2293.py)                      | 골드5  |   22.02.02    |
 |              [백준](https://www.acmicpc.net/problem/11687)               |           Binary Search            |                     [11687](boj/11687.py)                     | 골드5  |   22.02.07    |
 |              [백준](https://www.acmicpc.net/problem/20444)               |           Binary Search            |                     [20444](boj/20444.py)                     | 골드5  |   22.02.08    |
+|               [백준](https://www.acmicpc.net/problem/2606)               |  Graph(Disjoint Set & DFS & BFS)   |                      [2606](boj/2606.py)                      | 실버3  |   22.02.10    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
