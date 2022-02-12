@@ -93,6 +93,7 @@
 |              [백준](https://www.acmicpc.net/problem/13397)               |           Binary Search            |                     [13397](boj/13397.py)                     | 골드4  |   22.02.11    |
 |               [백준](https://www.acmicpc.net/problem/1260)               |             DFS & BFS              |                      [1260](boj/1260.py)                      | 실버2  |   22.02.11    |
 |              [백준](https://www.acmicpc.net/problem/19598)               |               Greedy               |                 [19598](boj/greedy/19598.py)                  | 골드5  |   22.02.12    |
+|               [백준](https://www.acmicpc.net/problem/1455)               |               Greedy               |                  [1455](boj/greedy/1455.py)                   | 실버2  |   22.02.12    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
