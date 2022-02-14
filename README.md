@@ -96,6 +96,7 @@
 |               [백준](https://www.acmicpc.net/problem/1455)               |               Greedy               |                  [1455](boj/greedy/1455.py)                   | 실버2  |   22.02.12    |
 |              [백준](https://www.acmicpc.net/problem/17951)               |           Binary Search            |              [17951](boj/binary_search/17951.py)              | 골드4  |   22.02.13    |
 |               [백준](https://www.acmicpc.net/problem/1374)               |               Greedy               |                  [1374](boj/greedy/1374.py)                   | 골드5  |   22.02.14    |
+|              [백준](https://www.acmicpc.net/problem/11000)               |               Greedy               |                 [11000](boj/greedy/11000.py)                  | 골드5  |   22.02.14    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
