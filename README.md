@@ -99,6 +99,7 @@
 |              [백준](https://www.acmicpc.net/problem/11000)               |               Greedy               |                 [11000](boj/greedy/11000.py)                  | 골드5  |   22.02.14    |
 |               [백준](https://www.acmicpc.net/problem/1753)               |          Graph(Dijkstra)           |                   [1753](boj/graph/1753.py)                   | 골드5  |   22.02.15    |
 |              [백준](https://www.acmicpc.net/problem/13549)               |             Graph(BFS)             |                 [13549](boj/dfs_bfs/13549.py)                 | 골드5  |   22.02.16    |
+|              [백준](https://www.acmicpc.net/problem/20168)               |          Graph(Dijkstra)           |                  [20168](boj/graph/20168.py)                  | 골드5  |   22.02.17    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
