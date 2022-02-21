@@ -109,6 +109,7 @@
 | [백준](https://www.acmicpc.net/problem/13549) |           Graph(BFS)            |    [13549](boj/dfs_bfs/13549.py)    | 골드5  |   22.02.16    |
 | [백준](https://www.acmicpc.net/problem/20168) |         Graph(Dijkstra)         |     [20168](boj/graph/20168.py)     | 골드5  |   22.02.18    |
 | [백준](https://www.acmicpc.net/problem/1261)  |            DFS & BFS            |     [1261](boj/dfs_bfs/1261.py)     | 골드4  |   22.02.19    |
+| [백준](https://www.acmicpc.net/problem/10282) |         Graph(Dijkstra)         |     [10282](boj/graph/10282.py)     | 골드4  |   22.02.21    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
