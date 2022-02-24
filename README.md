@@ -90,28 +90,28 @@
 
 </details>
 
-|                    사이트                     |            카테고리             |              문제 풀이              | 난이도 | 업데이트 날짜 |
-| :-------------------------------------------: | :-----------------------------: | :---------------------------------: | :----: | :-----------: |
-| [백준](https://www.acmicpc.net/problem/2096)  |      Two Pointer <br/> DP       |   [2096](boj/two_pointer/2096.py)   | 골드4  |   22.02.01    |
-| [백준](https://www.acmicpc.net/problem/2293)  |      Two Pointer <br/> DP       |   [2293](boj/two_pointer/2293.py)   | 골드5  |   22.02.02    |
-| [백준](https://www.acmicpc.net/problem/11687) |          Binary Search          | [11687](boj/binary_search/11687.py) | 골드5  |   22.02.07    |
-| [백준](https://www.acmicpc.net/problem/20444) |          Binary Search          | [20444](boj/binary_search/20444.py) | 골드5  |   22.02.08    |
-| [백준](https://www.acmicpc.net/problem/2606)  | Graph(Disjoint Set & DFS & BFS) |         [2606](boj/2606.py)         | 실버3  |   22.02.10    |
-| [백준](https://www.acmicpc.net/problem/1939)  |    Binary Search + DFS & BFS    |  [1939](boj/binary_search/1939.py)  | 골드4  |   22.02.11    |
-| [백준](https://www.acmicpc.net/problem/13397) |          Binary Search          | [13397](boj/binary_search/13397.py) | 골드4  |   22.02.11    |
-| [백준](https://www.acmicpc.net/problem/1260)  |            DFS & BFS            |         [1260](boj/1260.py)         | 실버2  |   22.02.11    |
-| [백준](https://www.acmicpc.net/problem/19598) |             Greedy              |    [19598](boj/greedy/19598.py)     | 골드5  |   22.02.12    |
-| [백준](https://www.acmicpc.net/problem/1455)  |             Greedy              |     [1455](boj/greedy/1455.py)      | 실버2  |   22.02.12    |
-| [백준](https://www.acmicpc.net/problem/17951) |          Binary Search          | [17951](boj/binary_search/17951.py) | 골드4  |   22.02.13    |
-| [백준](https://www.acmicpc.net/problem/1374)  |             Greedy              |     [1374](boj/greedy/1374.py)      | 골드5  |   22.02.14    |
-| [백준](https://www.acmicpc.net/problem/11000) |             Greedy              |    [11000](boj/greedy/11000.py)     | 골드5  |   22.02.14    |
-| [백준](https://www.acmicpc.net/problem/1753)  |         Graph(Dijkstra)         |      [1753](boj/graph/1753.py)      | 골드5  |   22.02.15    |
-| [백준](https://www.acmicpc.net/problem/13549) |           Graph(BFS)            |    [13549](boj/dfs_bfs/13549.py)    | 골드5  |   22.02.16    |
-| [백준](https://www.acmicpc.net/problem/20168) |         Graph(Dijkstra)         |     [20168](boj/graph/20168.py)     | 골드5  |   22.02.18    |
-| [백준](https://www.acmicpc.net/problem/1261)  |            DFS & BFS            |     [1261](boj/dfs_bfs/1261.py)     | 골드4  |   22.02.19    |
-| [백준](https://www.acmicpc.net/problem/10282) |         Graph(Dijkstra)         |     [10282](boj/graph/10282.py)     | 골드4  |   22.02.21    |
-| [백준](https://www.acmicpc.net/problem/17616) |            DFS & BFS            |    [17616](boj/dfs_bfs/17616.py)    | 골드3  |   22.02.24    |
-| [백준](https://www.acmicpc.net/problem/2141)  |             Greedy              |     [2141](boj/greedy/2141.py)      | 골드4  |   22.02.24    |
+|                    사이트                     |            카테고리             |                            문제 풀이                            | 난이도 | 업데이트 날짜 |
+| :-------------------------------------------: | :-----------------------------: | :-------------------------------------------------------------: | :----: | :-----------: |
+| [백준](https://www.acmicpc.net/problem/2096)  |      Two Pointer <br/> DP       |                 [2096](boj/two_pointer/2096.py)                 | 골드4  |   22.02.01    |
+| [백준](https://www.acmicpc.net/problem/2293)  |      Two Pointer <br/> DP       |                 [2293](boj/two_pointer/2293.py)                 | 골드5  |   22.02.02    |
+| [백준](https://www.acmicpc.net/problem/11687) |          Binary Search          |               [11687](boj/binary_search/11687.py)               | 골드5  |   22.02.07    |
+| [백준](https://www.acmicpc.net/problem/20444) |          Binary Search          |               [20444](boj/binary_search/20444.py)               | 골드5  |   22.02.08    |
+| [백준](https://www.acmicpc.net/problem/2606)  | Graph(Disjoint Set & DFS & BFS) |                       [2606](boj/2606.py)                       | 실버3  |   22.02.10    |
+| [백준](https://www.acmicpc.net/problem/1939)  |    Binary Search + DFS & BFS    |                [1939](boj/binary_search/1939.py)                | 골드4  |   22.02.11    |
+| [백준](https://www.acmicpc.net/problem/13397) |          Binary Search          |               [13397](boj/binary_search/13397.py)               | 골드4  |   22.02.11    |
+| [백준](https://www.acmicpc.net/problem/1260)  |            DFS & BFS            |                       [1260](boj/1260.py)                       | 실버2  |   22.02.11    |
+| [백준](https://www.acmicpc.net/problem/19598) |             Greedy              |                  [19598](boj/greedy/19598.py)                   | 골드5  |   22.02.12    |
+| [백준](https://www.acmicpc.net/problem/1455)  |             Greedy              |                   [1455](boj/greedy/1455.py)                    | 실버2  |   22.02.12    |
+| [백준](https://www.acmicpc.net/problem/17951) |          Binary Search          |               [17951](boj/binary_search/17951.py)               | 골드4  |   22.02.13    |
+| [백준](https://www.acmicpc.net/problem/1374)  |             Greedy              |                   [1374](boj/greedy/1374.py)                    | 골드5  |   22.02.14    |
+| [백준](https://www.acmicpc.net/problem/11000) |             Greedy              |                  [11000](boj/greedy/11000.py)                   | 골드5  |   22.02.14    |
+| [백준](https://www.acmicpc.net/problem/1753)  |         Graph(Dijkstra)         |                    [1753](boj/graph/1753.py)                    | 골드5  |   22.02.15    |
+| [백준](https://www.acmicpc.net/problem/13549) |           Graph(BFS)            |                  [13549](boj/dfs_bfs/13549.py)                  | 골드5  |   22.02.16    |
+| [백준](https://www.acmicpc.net/problem/20168) |         Graph(Dijkstra)         |                   [20168](boj/graph/20168.py)                   | 골드5  |   22.02.18    |
+| [백준](https://www.acmicpc.net/problem/1261)  |            DFS & BFS            |                   [1261](boj/dfs_bfs/1261.py)                   | 골드4  |   22.02.19    |
+| [백준](https://www.acmicpc.net/problem/10282) |         Graph(Dijkstra)         |                   [10282](boj/graph/10282.py)                   | 골드4  |   22.02.21    |
+| [백준](https://www.acmicpc.net/problem/17616) |            DFS & BFS            |                  [17616](boj/dfs_bfs/17616.py)                  | 골드3  |   22.02.24    |
+| [백준](https://www.acmicpc.net/problem/2141)  |             Greedy              | [2141](boj/greedy/2141.py) <br/> [2141(js)](boj/greedy/2141.js) | 골드4  |   22.02.24    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
