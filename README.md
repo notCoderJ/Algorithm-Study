@@ -112,6 +112,7 @@
 | [백준](https://www.acmicpc.net/problem/10282) |         Graph(Dijkstra)         |                   [10282](boj/graph/10282.py)                   | 골드4  |   22.02.21    |
 | [백준](https://www.acmicpc.net/problem/17616) |            DFS & BFS            |                  [17616](boj/dfs_bfs/17616.py)                  | 골드3  |   22.02.24    |
 | [백준](https://www.acmicpc.net/problem/2141)  |             Greedy              | [2141](boj/greedy/2141.py) <br/> [2141(js)](boj/greedy/2141.js) | 골드4  |   22.02.24    |
+| [백준](https://www.acmicpc.net/problem/7453)  |          Binary Search          |                [7453](boj/binary_search/7453.py)                | 골드2  |   22.02.25    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
