@@ -119,11 +119,12 @@
 
 </details>
 
-|                    사이트                    |   카테고리    |             문제 풀이             | 난이도 | 업데이트 날짜 |
-| :------------------------------------------: | :-----------: | :-------------------------------: | :----: | :-----------: |
-| [백준](https://www.acmicpc.net/problem/2146) |   DFS & BFS   |    [2146](boj/dfs_bfs/2146.py)    | 골드3  |   22.03.01    |
-| [백준](https://www.acmicpc.net/problem/1561) | Binary Search | [1561](boj/binary_search/1561.py) | 골드2  |   22.03.02    |
-| [백준](https://www.acmicpc.net/problem/2812) |    Greedy     |    [2812](boj/greedy/2812.py)     | 골드4  |   22.03.05    |
+|                    사이트                     |        카테고리         |             문제 풀이             | 난이도 | 업데이트 날짜 |
+| :-------------------------------------------: | :---------------------: | :-------------------------------: | :----: | :-----------: |
+| [백준](https://www.acmicpc.net/problem/2146)  |        DFS & BFS        |    [2146](boj/dfs_bfs/2146.py)    | 골드3  |   22.03.01    |
+| [백준](https://www.acmicpc.net/problem/1561)  |      Binary Search      | [1561](boj/binary_search/1561.py) | 골드2  |   22.03.02    |
+| [백준](https://www.acmicpc.net/problem/2812)  |         Greedy          |    [2812](boj/greedy/2812.py)     | 골드4  |   22.03.05    |
+| [백준](https://www.acmicpc.net/problem/11562) | Graph(Dijkstra & Floyd) |    [11562](boj/graph/11562.py)    | 골드4  |   22.03.06    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
