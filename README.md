@@ -126,6 +126,7 @@
 | [백준](https://www.acmicpc.net/problem/2812)  |         Greedy          |    [2812](boj/greedy/2812.py)     | 골드4  |   22.03.05    |
 | [백준](https://www.acmicpc.net/problem/11562) | Graph(Dijkstra & Floyd) |    [11562](boj/graph/11562.py)    | 골드4  |   22.03.06    |
 | [백준](https://www.acmicpc.net/problem/11724) |        DFS & BFS        |   [11724](boj/dfs_bfs/11724.py)   | 실버2  |   22.03.07    |
+| [백준](https://www.acmicpc.net/problem/11404) |      Graph(Floyd)       |    [11404](boj/graph/11404.py)    | 골드4  |   22.03.09    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
