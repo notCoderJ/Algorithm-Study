@@ -119,14 +119,16 @@
 
 </details>
 
-|                    사이트                     |        카테고리         |             문제 풀이             | 난이도 | 업데이트 날짜 |
-| :-------------------------------------------: | :---------------------: | :-------------------------------: | :----: | :-----------: |
-| [백준](https://www.acmicpc.net/problem/2146)  |        DFS & BFS        |    [2146](boj/dfs_bfs/2146.py)    | 골드3  |   22.03.01    |
-| [백준](https://www.acmicpc.net/problem/1561)  |      Binary Search      | [1561](boj/binary_search/1561.py) | 골드2  |   22.03.02    |
-| [백준](https://www.acmicpc.net/problem/2812)  |         Greedy          |    [2812](boj/greedy/2812.py)     | 골드4  |   22.03.05    |
-| [백준](https://www.acmicpc.net/problem/11562) | Graph(Dijkstra & Floyd) |    [11562](boj/graph/11562.py)    | 골드4  |   22.03.06    |
-| [백준](https://www.acmicpc.net/problem/11724) |        DFS & BFS        |   [11724](boj/dfs_bfs/11724.py)   | 실버2  |   22.03.07    |
-| [백준](https://www.acmicpc.net/problem/11404) |      Graph(Floyd)       |    [11404](boj/graph/11404.py)    | 골드4  |   22.03.09    |
+|                    사이트                     |        카테고리         |                 문제 풀이                 | 난이도 | 업데이트 날짜 |
+| :-------------------------------------------: | :---------------------: | :---------------------------------------: | :----: | :-----------: |
+| [백준](https://www.acmicpc.net/problem/2146)  |        DFS & BFS        |        [2146](boj/dfs_bfs/2146.py)        | 골드3  |   22.03.01    |
+| [백준](https://www.acmicpc.net/problem/1561)  |      Binary Search      |     [1561](boj/binary_search/1561.py)     | 골드2  |   22.03.02    |
+| [백준](https://www.acmicpc.net/problem/2812)  |         Greedy          |        [2812](boj/greedy/2812.py)         | 골드4  |   22.03.05    |
+| [백준](https://www.acmicpc.net/problem/11562) | Graph(Dijkstra & Floyd) |        [11562](boj/graph/11562.py)        | 골드4  |   22.03.06    |
+| [백준](https://www.acmicpc.net/problem/11724) |        DFS & BFS        |       [11724](boj/dfs_bfs/11724.py)       | 실버2  |   22.03.07    |
+| [백준](https://www.acmicpc.net/problem/11404) |      Graph(Floyd)       |        [11404](boj/graph/11404.py)        | 골드4  |   22.03.09    |
+| [백준](https://www.acmicpc.net/problem/1343)  |         Greedy          |        [1343](boj/greedy/1343.py)         | 실버5  |   22.03.14    |
+| [백준](https://www.acmicpc.net/problem/14916) |   Dynamic Programming   | [14916](boj/dynamic_programming/14916.py) | 실버5  |   22.03.14    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
