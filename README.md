@@ -129,6 +129,7 @@
 | [백준](https://www.acmicpc.net/problem/11404) |      Graph(Floyd)       |        [11404](boj/graph/11404.py)        | 골드4  |   22.03.09    |
 | [백준](https://www.acmicpc.net/problem/1343)  |         Greedy          |        [1343](boj/greedy/1343.py)         | 실버5  |   22.03.14    |
 | [백준](https://www.acmicpc.net/problem/14916) |   Dynamic Programming   | [14916](boj/dynamic_programming/14916.py) | 실버5  |   22.03.14    |
+| [백준](https://www.acmicpc.net/problem/1092)  |         Greedy          |        [1092](boj/greedy/1092.py)         | 골드5  |   22.03.16    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
