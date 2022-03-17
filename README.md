@@ -60,9 +60,9 @@
   
   |                                  사이트                                  |              카테고리              |                           문제 풀이                           | 난이도 | 업데이트 날짜 |
   | :----------------------------------------------------------------------: | :--------------------------------: | :-----------------------------------------------------------: | :----: | :-----------: |
-  |               [백준](https://www.acmicpc.net/problem/1018)               |            Brute Force             |                      [1018](boj/1018.py)                      | 실버5  |   22.01.13    |
-  |               [백준](https://www.acmicpc.net/problem/1436)               |            Brute Force             |                      [1436](boj/1436.py)                      | 실버5  |   22.01.13    |
-  |              [백준](https://www.acmicpc.net/problem/14501)               |            Brute Force             |                     [14501](boj/14501.py)                     | 실버3  |   22.01.13    |
+  |               [백준](https://www.acmicpc.net/problem/1018)               |            Brute Force             |                      [1018](boj/brute_force/1018.py)                      | 실버5  |   22.01.13    |
+  |               [백준](https://www.acmicpc.net/problem/1436)               |            Brute Force             |                      [1436](boj/brute_force/1436.py)                      | 실버5  |   22.01.13    |
+  |              [백준](https://www.acmicpc.net/problem/14501)               |            Brute Force             |                     [14501](boj/brute_force/14501.py)                     | 실버3  |   22.01.13    |
   |               [백준](https://www.acmicpc.net/problem/1764)               |           Binary Search            |               [1764](boj/binary_search/1764.py)               | 실버4  |   22.01.17    |
   |               [백준](https://www.acmicpc.net/problem/1920)               |           Binary Search            |               [1920](boj/binary_search/1920.py)               | 실버4  |   22.01.17    |
   |              [백준](https://www.acmicpc.net/problem/10816)               |           Binary Search            |              [10816](boj/binary_search/10816.py)              | 실버4  |   22.01.18    |
@@ -130,6 +130,7 @@
 | [백준](https://www.acmicpc.net/problem/1343)  |         Greedy          |        [1343](boj/greedy/1343.py)         | 실버5  |   22.03.14    |
 | [백준](https://www.acmicpc.net/problem/14916) |   Dynamic Programming   | [14916](boj/dynamic_programming/14916.py) | 실버5  |   22.03.14    |
 | [백준](https://www.acmicpc.net/problem/1092)  |         Greedy          |        [1092](boj/greedy/1092.py)         | 골드5  |   22.03.16    |
+| [백준](https://www.acmicpc.net/problem/7490)  |       Brute Force       |      [7490](boj/brute_force/7490.py)      | 골드5  |   22.03.17    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
