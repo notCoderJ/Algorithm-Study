@@ -133,6 +133,7 @@
 | [백준](https://www.acmicpc.net/problem/7490)  |       Brute Force       |      [7490](boj/brute_force/7490.py)      | 골드5  |   22.03.17    |
 | [백준](https://www.acmicpc.net/problem/1966)  |  Data Structure(Queue)  |    [1966](boj/data_structure/1966.py)     | 실버3  |   22.03.17    |
 | [백준](https://www.acmicpc.net/problem/2960)  |       Etc(Eratos)       |          [2960](boj/etc/2960.py)          | 실버4  |   22.03.18    |
+| [백준](https://www.acmicpc.net/problem/16434) |      Binary Search      |    [16434](boj/binary_search/16434.py)    | 골드4  |   22.03.25    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
