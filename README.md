@@ -137,6 +137,7 @@
 | [백준](https://www.acmicpc.net/problem/14225) |       Brute Force       |     [14225](boj/brute_force/14225.py)     | 실버1  |   22.04.04    |
 | [백준](https://www.acmicpc.net/problem/17471) |       Brute Force       |     [17471](boj/brute_force/17471.py)     | 골드4  |   22.04.19    |
 | [백준](https://www.acmicpc.net/problem/6209)  |      Binary Search      |     [6209](boj/binary_search/6209.py)     | 골드2  |   22.04.26    |
+| [백준](https://www.acmicpc.net/problem/14500) |       Brute Force       |     [14500](boj/brute_force/14500.py)     | 골드5  |   22.04.28    |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
