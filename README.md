@@ -119,26 +119,26 @@
 
 </details>
 
-|                    사이트                     |        카테고리         |                 문제 풀이                 | 난이도 | 업데이트 날짜 |
-| :-------------------------------------------: | :---------------------: | :---------------------------------------: | :----: | :-----------: |
-| [백준](https://www.acmicpc.net/problem/2146)  |        DFS & BFS        |        [2146](boj/dfs_bfs/2146.py)        | 골드3  |   22.03.01    |
-| [백준](https://www.acmicpc.net/problem/1561)  |      Binary Search      |     [1561](boj/binary_search/1561.py)     | 골드2  |   22.03.02    |
-| [백준](https://www.acmicpc.net/problem/2812)  |         Greedy          |        [2812](boj/greedy/2812.py)         | 골드4  |   22.03.05    |
-| [백준](https://www.acmicpc.net/problem/11562) | Graph(Dijkstra & Floyd) |        [11562](boj/graph/11562.py)        | 골드4  |   22.03.06    |
-| [백준](https://www.acmicpc.net/problem/11724) |        DFS & BFS        |       [11724](boj/dfs_bfs/11724.py)       | 실버2  |   22.03.07    |
-| [백준](https://www.acmicpc.net/problem/11404) |      Graph(Floyd)       |        [11404](boj/graph/11404.py)        | 골드4  |   22.03.09    |
-| [백준](https://www.acmicpc.net/problem/1343)  |         Greedy          |        [1343](boj/greedy/1343.py)         | 실버5  |   22.03.14    |
-| [백준](https://www.acmicpc.net/problem/14916) |   Dynamic Programming   | [14916](boj/dynamic_programming/14916.py) | 실버5  |   22.03.14    |
-| [백준](https://www.acmicpc.net/problem/1092)  |         Greedy          |        [1092](boj/greedy/1092.py)         | 골드5  |   22.03.16    |
-| [백준](https://www.acmicpc.net/problem/7490)  |       Brute Force       |      [7490](boj/brute_force/7490.py)      | 골드5  |   22.03.17    |
-| [백준](https://www.acmicpc.net/problem/1966)  |  Data Structure(Queue)  |    [1966](boj/data_structure/1966.py)     | 실버3  |   22.03.17    |
-| [백준](https://www.acmicpc.net/problem/2960)  |       Etc(Eratos)       |          [2960](boj/etc/2960.py)          | 실버4  |   22.03.18    |
-| [백준](https://www.acmicpc.net/problem/16434) |      Binary Search      |    [16434](boj/binary_search/16434.py)    | 골드4  |   22.03.25    |
-| [백준](https://www.acmicpc.net/problem/14225) |       Brute Force       |     [14225](boj/brute_force/14225.py)     | 실버1  |   22.04.04    |
-| [백준](https://www.acmicpc.net/problem/17471) |       Brute Force       |     [17471](boj/brute_force/17471.py)     | 골드4  |   22.04.19    |
-| [백준](https://www.acmicpc.net/problem/6209)  |      Binary Search      |     [6209](boj/binary_search/6209.py)     | 골드2  |   22.04.26    |
-| [백준](https://www.acmicpc.net/problem/14500) |       Brute Force       |     [14500](boj/brute_force/14500.py)     | 골드5  |   22.04.28    |
-| [백준](https://www.acmicpc.net/problem/4963)  |        DFS & BFS        |        [4963](boj/dfs_bfs/4963.py)        | 실버2  |   22.04.29    |
+|                    사이트                     |        카테고리         |                 문제 풀이                 | 난이도 |  업데이트 날짜   |
+| :-------------------------------------------: | :---------------------: | :---------------------------------------: | :----: | :--------------: |
+| [백준](https://www.acmicpc.net/problem/2146)  |        DFS & BFS        |        [2146](boj/dfs_bfs/2146.py)        | 골드3  |     22.03.01     |
+| [백준](https://www.acmicpc.net/problem/1561)  |      Binary Search      |     [1561](boj/binary_search/1561.py)     | 골드2  |     22.03.02     |
+| [백준](https://www.acmicpc.net/problem/2812)  |         Greedy          |        [2812](boj/greedy/2812.py)         | 골드4  |     22.03.05     |
+| [백준](https://www.acmicpc.net/problem/11562) | Graph(Dijkstra & Floyd) |        [11562](boj/graph/11562.py)        | 골드4  |     22.03.06     |
+| [백준](https://www.acmicpc.net/problem/11724) |        DFS & BFS        |       [11724](boj/dfs_bfs/11724.py)       | 실버2  |     22.03.07     |
+| [백준](https://www.acmicpc.net/problem/11404) |      Graph(Floyd)       |        [11404](boj/graph/11404.py)        | 골드4  |     22.03.09     |
+| [백준](https://www.acmicpc.net/problem/1343)  |         Greedy          |        [1343](boj/greedy/1343.py)         | 실버5  |     22.03.14     |
+| [백준](https://www.acmicpc.net/problem/14916) |   Dynamic Programming   | [14916](boj/dynamic_programming/14916.py) | 실버5  |     22.03.14     |
+| [백준](https://www.acmicpc.net/problem/1092)  |         Greedy          |        [1092](boj/greedy/1092.py)         | 골드5  |     22.03.16     |
+| [백준](https://www.acmicpc.net/problem/7490)  |       Brute Force       |      [7490](boj/brute_force/7490.py)      | 골드5  |     22.03.17     |
+| [백준](https://www.acmicpc.net/problem/1966)  |  Data Structure(Queue)  |    [1966](boj/data_structure/1966.py)     | 실버3  |     22.03.17     |
+| [백준](https://www.acmicpc.net/problem/2960)  |       Etc(Eratos)       |          [2960](boj/etc/2960.py)          | 실버4  |     22.03.18     |
+| [백준](https://www.acmicpc.net/problem/16434) |      Binary Search      |    [16434](boj/binary_search/16434.py)    | 골드4  |     22.03.25     |
+| [백준](https://www.acmicpc.net/problem/14225) |       Brute Force       |     [14225](boj/brute_force/14225.py)     | 실버1  |     22.04.04     |
+| [백준](https://www.acmicpc.net/problem/17471) |       Brute Force       |     [17471](boj/brute_force/17471.py)     | 골드4  |     22.04.19     |
+| [백준](https://www.acmicpc.net/problem/6209)  |      Binary Search      |     [6209](boj/binary_search/6209.py)     | 골드2  |     22.04.26     |
+| [백준](https://www.acmicpc.net/problem/14500) |    Brute Force & DFS    |     [14500](boj/brute_force/14500.py)     | 골드5  | 22.05.01(update) |
+| [백준](https://www.acmicpc.net/problem/4963)  |        DFS & BFS        |        [4963](boj/dfs_bfs/4963.py)        | 실버2  |     22.04.29     |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
