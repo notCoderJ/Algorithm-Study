@@ -149,6 +149,7 @@
 | [백준](https://www.acmicpc.net/problem/4963)  |     DFS & BFS     |    [4963](boj/dfs_bfs/4963.py)    | 실버2  |     22.04.29     |
 | [백준](https://www.acmicpc.net/problem/18511) |    Brute Force    | [18511](boj/brute_force/18511.py) | 실버5  |     22.05.03     |
 | [백준](https://www.acmicpc.net/problem/16986) |    Brute Force    | [16986](boj/brute_force/16986.py) | 골드3  |     22.05.04     |
+| [백준](https://www.acmicpc.net/problem/1581)  |    Brute Force    |  [1581](boj/brute_force/1581.py)  | 골드4  |     22.05.05     |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
