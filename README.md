@@ -153,6 +153,7 @@
 | [백준](https://www.acmicpc.net/problem/9663)  |    Brute Force    |  [9663](boj/brute_force/9663.js)  | 골드5  |     22.05.06     |
 | [백준](https://www.acmicpc.net/problem/5014)  |     DFS & BFS     |    [5014](boj/dfs_bfs/5014.js)    | 골드5  |     22.05.09     |
 | [백준](https://www.acmicpc.net/problem/9019)  |     DFS & BFS     |    [9019](boj/dfs_bfs/9019.js)    | 골드5  |     22.05.10     |
+| [백준](https://www.acmicpc.net/problem/1922)  |  Graph(Kruskal)   |     [1922](boj/graph/1922.js)     | 골드4  |     22.05.11     |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
