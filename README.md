@@ -140,20 +140,21 @@
 
 </details>
 
-|                    사이트                     |     카테고리      |             문제 풀이             | 난이도 |  업데이트 날짜   |
-| :-------------------------------------------: | :---------------: | :-------------------------------: | :----: | :--------------: |
-| [백준](https://www.acmicpc.net/problem/14225) |    Brute Force    | [14225](boj/brute_force/14225.py) | 실버1  |     22.04.04     |
-| [백준](https://www.acmicpc.net/problem/17471) |    Brute Force    | [17471](boj/brute_force/17471.py) | 골드4  |     22.04.19     |
-| [백준](https://www.acmicpc.net/problem/6209)  |   Binary Search   | [6209](boj/binary_search/6209.py) | 골드2  |     22.04.26     |
-| [백준](https://www.acmicpc.net/problem/14500) | Brute Force & DFS | [14500](boj/brute_force/14500.py) | 골드5  | 22.05.01(update) |
-| [백준](https://www.acmicpc.net/problem/4963)  |     DFS & BFS     |    [4963](boj/dfs_bfs/4963.py)    | 실버2  |     22.04.29     |
-| [백준](https://www.acmicpc.net/problem/18511) |    Brute Force    | [18511](boj/brute_force/18511.py) | 실버5  |     22.05.03     |
-| [백준](https://www.acmicpc.net/problem/16986) |    Brute Force    | [16986](boj/brute_force/16986.py) | 골드3  |     22.05.04     |
-| [백준](https://www.acmicpc.net/problem/1581)  |    Brute Force    |  [1581](boj/brute_force/1581.py)  | 골드4  |     22.05.05     |
-| [백준](https://www.acmicpc.net/problem/9663)  |    Brute Force    |  [9663](boj/brute_force/9663.js)  | 골드5  |     22.05.06     |
-| [백준](https://www.acmicpc.net/problem/5014)  |     DFS & BFS     |    [5014](boj/dfs_bfs/5014.js)    | 골드5  |     22.05.09     |
-| [백준](https://www.acmicpc.net/problem/9019)  |     DFS & BFS     |    [9019](boj/dfs_bfs/9019.js)    | 골드5  |     22.05.10     |
-| [백준](https://www.acmicpc.net/problem/1922)  |  Graph(Kruskal)   |     [1922](boj/graph/1922.js)     | 골드4  |     22.05.11     |
+|                    사이트                     |      카테고리      |               문제 풀이                | 난이도 |  업데이트 날짜   |
+| :-------------------------------------------: | :----------------: | :------------------------------------: | :----: | :--------------: |
+| [백준](https://www.acmicpc.net/problem/14225) |    Brute Force     |   [14225](boj/brute_force/14225.py)    | 실버1  |     22.04.04     |
+| [백준](https://www.acmicpc.net/problem/17471) |    Brute Force     |   [17471](boj/brute_force/17471.py)    | 골드4  |     22.04.19     |
+| [백준](https://www.acmicpc.net/problem/6209)  |   Binary Search    |   [6209](boj/binary_search/6209.py)    | 골드2  |     22.04.26     |
+| [백준](https://www.acmicpc.net/problem/14500) | Brute Force & DFS  |   [14500](boj/brute_force/14500.py)    | 골드5  | 22.05.01(update) |
+| [백준](https://www.acmicpc.net/problem/4963)  |     DFS & BFS      |      [4963](boj/dfs_bfs/4963.py)       | 실버2  |     22.04.29     |
+| [백준](https://www.acmicpc.net/problem/18511) |    Brute Force     |   [18511](boj/brute_force/18511.py)    | 실버5  |     22.05.03     |
+| [백준](https://www.acmicpc.net/problem/16986) |    Brute Force     |   [16986](boj/brute_force/16986.py)    | 골드3  |     22.05.04     |
+| [백준](https://www.acmicpc.net/problem/1581)  |    Brute Force     |    [1581](boj/brute_force/1581.py)     | 골드4  |     22.05.05     |
+| [백준](https://www.acmicpc.net/problem/9663)  |    Brute Force     |    [9663](boj/brute_force/9663.js)     | 골드5  |     22.05.06     |
+| [백준](https://www.acmicpc.net/problem/5014)  |     DFS & BFS      |      [5014](boj/dfs_bfs/5014.js)       | 골드5  |     22.05.09     |
+| [백준](https://www.acmicpc.net/problem/9019)  |     DFS & BFS      |      [9019](boj/dfs_bfs/9019.js)       | 골드5  |     22.05.10     |
+| [백준](https://www.acmicpc.net/problem/1922)  |   Graph(Kruskal)   |       [1922](boj/graph/1922.js)        | 골드4  |     22.05.11     |
+| [백준](https://www.acmicpc.net/problem/1629)  | Divide and Conquer | [1629](boj/divide_and_conquer/1629.js) | 실버1  |     22.05.17     |
 
 > \*표시한 것은 힌트를 얻거나 해설을 참고했으므로 다시 풀어봐야함
 
